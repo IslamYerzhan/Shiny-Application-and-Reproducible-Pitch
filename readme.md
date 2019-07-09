@@ -1,9 +1,9 @@
 
-##Introduction
+Introduction
 
 This project contains two parts. This is the second part: use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
 
-##Requirement:
+Requirement:
 
 5 slides to pitch our idea done in Slidify or Rstudio Presenter
 Your presentation pushed to github or Rpubs
