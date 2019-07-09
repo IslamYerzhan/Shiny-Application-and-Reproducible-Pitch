@@ -1,0 +1,44 @@
+---
+title: "Coursera Developing Data Products Assignment 4"
+output: ioslides_presentation
+author: Islam Yerzhan
+date: "June 09, 2019"
+---
+
+##Background
+
+- Introduction
+
+This project contains two parts. This is the second part: use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
+
+- Requirement:
+
+5 slides to pitch our idea done in Slidify or Rstudio Presenter
+Your presentation pushed to github or Rpubs
+A link to your github or Rpubs presentation pasted into the provided text box
+
+
+
+##Application
+
+As an application, a table is built where you can choose one and get brief information from datasets.
+Rock, Pressure, Cars.
+
+You can also obtain data on the dependence of variables on predictors.
+
+
+##Application
+
+- There is a link to the application:https://islamyerzhan.shinyapps.io/aaaaaaaaaaaaaaaa/
+
+- There is a link to the Github repository: https://github.com/manastiwari/Developing-Data-Products-Week-4-Course-Project
+
+
+##Thank you for watching!!
+
+
+
+
+
+
+
